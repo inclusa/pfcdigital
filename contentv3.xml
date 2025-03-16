@@ -175,14 +175,23 @@
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-family: andale mono, monospace; color: #ff6600;&quot;&gt;16.03.ds&lt;/span&gt;&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;font-family: andale mono, monospace; color: #ff6600;&quot;&gt;16.03.dg&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Aquest és un entorn d'aprenentatge què pretén facilitar l'accés a la informació. Es tracta d'un entorn sense restriccions, pensat per facilitar la comprensió del que es demana per assolir un nivell de Competència Digital Docent NIVELL B1 a través dels Projecte de Formació en Centres.&lt;/p&gt;
 &lt;p&gt;Hem utilitzat eXeLearning per tal de generar aquesta web. Per accedir als continguts sols cal que et dirigisques al menú i navegues de manera senzilla pel seu contingut. Trobaràs tot el que necessites per entendre i construir una bona proposta de treball.&lt;/p&gt;
 &lt;p&gt;Aquesta web és dinàmica anirà actualitzant-se per tal de donar resposta a les necessitats dels professionals que la faran servir.&lt;/p&gt;
-&lt;h1&gt;&lt;img src=&quot;resources/fases.png&quot; width=&quot;1023&quot; height=&quot;574&quot; /&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://portal.edu.gva.es/blogs/s1/alfons/wp-content/uploads/sites/326/2025/02/ccdslides.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/pfc.png&quot; alt=&quot;&quot; width=&quot;1024&quot; height=&quot;575&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Estructura&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;resources/fases.png&quot; width=&quot;1023&quot; height=&quot;574&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://portal.edu.gva.es/blogs/s1/alfons/wp-content/uploads/sites/326/2025/03/PFC_Digital_mentoria.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/cddmentor.png&quot; alt=&quot;&quot; width=&quot;1024&quot; height=&quot;582&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;h1&gt;Presentacions&lt;/h1&gt;
+&lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
+&lt;div class=&quot;exe-col exe-col-1&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://portal.edu.gva.es/blogs/s1/alfons/wp-content/uploads/sites/326/2025/02/ccdslides.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/pfc.png&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;281&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;exe-col exe-col-2&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://portal.edu.gva.es/blogs/s1/alfons/wp-content/uploads/sites/326/2025/03/PFC_Digital_mentoria.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;resources/cddmentor.png&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;284&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -227,7 +236,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="fases.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/fases.png"></string>
+                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/fases.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="65494d5bf966ba5bea70bd3de1febdc0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -279,7 +288,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="pfc.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/pfc.png"></string>
+                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/pfc.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="aeb9a10d262b417144ab17c2903fac2c"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -331,7 +340,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="cddmentor.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/cddmentor.png"></string>
+                  <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/cddmentor.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="a224be89303a8c0bf88116cbaabf4ea0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1031,7 +1040,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="coneixement.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/coneixement.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/coneixement.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a609e4c3ce09750252adc0bacfe92736"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1213,7 +1222,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="estrategies.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/estrategies.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/estrategies.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="50a13f3222bfd2a112ff35080c4998e8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1977,7 +1986,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="competencies.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/competencies.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/competencies.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b58315be004a547552d50e473e51a513"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2162,7 +2171,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="nivells04.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/nivells04.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/nivells04.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="405fb46a115d83d1db7b4ddef14bcd9c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2214,7 +2223,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="nivells03.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/nivells03.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/nivells03.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="2a03e39b43da1ac52d9963882dc22e74"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2266,7 +2275,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="nivells02.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/nivells02.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/nivells02.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b7fcd5f46400824404f9e60b7a38f4ae"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2318,7 +2327,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="nivells01.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/nivells01.png"></string>
+                     <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/nivells01.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5391bab82703afde007fcee8db6d8b49"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3402,7 +3411,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tarea_A_cas.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tarea_A_cas.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tarea_A_cas.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b1b34c9686b064a174a185921925a22f"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3454,7 +3463,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tasca_A_val-1.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tasca_A_val-1.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tasca_A_val-1.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="dfbcfaf24174cf8cd81fc17952e5943a"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3506,7 +3515,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="itacaaules.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/itacaaules.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/itacaaules.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="e8b148a433d048786488fb514c56b8c2"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3558,7 +3567,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3610,7 +3619,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Rubrica_Tasca_A.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/Rubrica_Tasca_A.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/Rubrica_Tasca_A.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2e9be01e6babf4aca38761f89db1fd24"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3796,7 +3805,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="recurs.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/recurs.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/recurs.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f02e904b6d78063c450fab47563bc153"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4306,7 +4315,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tarea_B_val.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tarea_B_val.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tarea_B_val.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="c81603ecba55004495ce62fc92c39700"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4358,7 +4367,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tarea_B_cas.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tarea_B_cas.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tarea_B_cas.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="ff912956bf5b715e4f6499a7bedb4a53"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4410,7 +4419,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Rubrica_Tasca_B.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/Rubrica_Tasca_B.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/Rubrica_Tasca_B.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="ef87a2b3fc8d6d205c6d19b25bafb915"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4462,7 +4471,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Rubrica_Tasca_B.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/Rubrica_Tasca_B.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/Rubrica_Tasca_B.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="ef87a2b3fc8d6d205c6d19b25bafb915"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4982,7 +4991,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tarea_C_val.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tarea_C_val.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tarea_C_val.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="e5940246fd8895cca1f43594e1d20389"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5034,7 +5043,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="plantilla_tarea_C_cas.docx"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/plantilla_tarea_C_cas.docx"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/plantilla_tarea_C_cas.docx"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3cd0d0c327e6e7dceb66cfa962fbe6af"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5086,7 +5095,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Rubrica_Tasca_C.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/Rubrica_Tasca_C.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/Rubrica_Tasca_C.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="30efccd1fa4e39cc4abf53df69730131"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5719,7 +5728,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="F2_PAR_CAS.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/F2_PAR_CAS.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/F2_PAR_CAS.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="c77a43e7660a53eb0025fffc13ae01bb"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5771,7 +5780,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="F2_PAR_VAL.pdf"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/F2_PAR_VAL.pdf"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/F2_PAR_VAL.pdf"></string>
                            <string role="key" value="checksum"></string>
                            <string value="4302d3044e36b7e5ae95668aba122e4d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5997,7 +6006,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="procomun.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                        <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6dea111d3642ac745f4763820bc59801"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6208,7 +6217,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="primavera.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/primavera.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/primavera.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2a3db5d28d745e7dc316e668eb9944f4"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6260,7 +6269,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6476,7 +6485,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6528,7 +6537,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="ecosistemas.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/ecosistemas.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/ecosistemas.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="7cbcb3bb566125ecfc4660bc14561e85"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6744,7 +6753,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="caixa.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/caixa.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/caixa.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f23d8c9a93fc4e8475251d966a90eb79"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6796,7 +6805,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7008,7 +7017,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="caja.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/caja.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/caja.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d7a1cebf4255601f50582915bbd70d21"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7060,7 +7069,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7275,7 +7284,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7327,7 +7336,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="senyor.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/senyor.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/senyor.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2ba80eba66d6d4ede82788442512f625"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7539,7 +7548,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="colors.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/colors.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/colors.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="19235b09861b834ce4ffab2d85deca8e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7591,7 +7600,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7803,7 +7812,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7855,7 +7864,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="nadal.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/nadal.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/nadal.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2b5578be30035542dbad1786095af3a9"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8067,7 +8076,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8119,7 +8128,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="oliveres.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/oliveres.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/oliveres.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="44f33a26da6776c8078c328149456d55"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8331,7 +8340,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8542,7 +8551,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procomun.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/procomun.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/procomun.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6dea111d3642ac745f4763820bc59801"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8594,7 +8603,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="adi.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpkXUYF7/adi.png"></string>
+                           <string value="/var/folders/w1/gyn44b3s01168rys23w42kd00000gn/T/tmpq5euB0/adi.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="b159b49006da5fab9f1a4a534963d37e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
